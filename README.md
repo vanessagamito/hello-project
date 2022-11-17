@@ -12,6 +12,5 @@
    - CSS
 
 <img src="https://github.com/vanessagamito/hello-project/blob/master/assets/1.png?raw=true" />
-<br>
-<img src"https://github.com/vanessagamito/hello-project/blob/master/assets/2.png?raw=true" />
+
   
