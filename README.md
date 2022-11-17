@@ -3,7 +3,7 @@
 <br>
 <h2>Esse foi um projeto que eu aprendi no <a href="https://rodolfomori.com.br/devclub">Devclub</a></h2>
   
-  Este é um projeto 
+  Este é um projeto responsivo.
   
   <h2>Tecnologias utilizadas</h2>
   <br>
